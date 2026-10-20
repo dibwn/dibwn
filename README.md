@@ -1,7 +1,12 @@
 <p align="center">
   <img src="Gambar%20profile.png" alt="Adib Safwan" width="180" style="border-radius: 50%;">
 </p>
+# Main Title
+## Section Title
+### Subsection
 
+**Bold text**
+*Italic text*
 <h1 align="center">Hi, saya Adib Safwan 👋</h1>
 
 <p align="center">
